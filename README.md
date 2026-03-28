@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Divyansh
 
-<!--
-**divyansh11232/divyansh11232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Academic Profile
+* Name: Divyansh
+* Branch: Computer Science and Engineering
+* Year: 1st Year
+## Learning Goals
+I hope to master advanced deep learning techniques and computer vision to build intelligent systems that solve complex, real-world problems.
 
-Here are some ideas to get you started:
+## Skills and Interests
+* Languages: Python (Essentials Certified)
+* Specializations: Artificial Intelligence and Semantic Segmentation
+* Experience: Hackathon participant focused on Model Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me
+* [LinkedIn](https://www.linkedin.com/in/divyansh-verma-82aaba316/)
+* [Email](mailto:divyansh.25bai11232@vitbhopal.ac.in)
